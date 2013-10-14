@@ -1,0 +1,27 @@
+{
+  "Mo" : [
+    { "start":0, "end":4 },
+    { "start":19, "end":24 }
+  ],
+  "Tu" : [
+    { "start":0, "end":4 },
+    { "start":6, "end":10 },
+    { "start":12, "end":16 },
+    { "start":18, "end":22 }
+  ],
+  "We" : [
+    { "start":12, "end":14 }
+  ],
+  "Th" : [
+    { "start":8, "end":12 }
+  ],
+  "Fr" : [
+    { "start":4, "end":12 }
+  ],
+  "Sa" : [
+    { "start":0, "end":24 }
+  ],
+  "Su" : [
+    { "start":0, "end":24 }
+  ]
+}
